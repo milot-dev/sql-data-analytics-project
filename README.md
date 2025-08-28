@@ -4,3 +4,7 @@ This repository contains SQL queries designed to help data analysts and BI profe
 
 ## Note
 These scripts are based of 'https://github.com/DataWithBaraa/sql-data-analytics-project/' as evidence of finishing the complete SQL Course provided by DataWithBaraa, 'https://www.youtube.com/watch?v=SSKVgrwhzus&t=80665s&ab_channel=DatawithBaraa'.
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
